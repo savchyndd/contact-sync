@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contact-sync/static/css/main.7e4b98be.css",
+    "main.js": "/contact-sync/static/js/main.e473b008.js",
+    "static/js/946.04ae9b7f.chunk.js": "/contact-sync/static/js/946.04ae9b7f.chunk.js",
+    "static/js/20.4b0d341a.chunk.js": "/contact-sync/static/js/20.4b0d341a.chunk.js",
+    "static/js/696.dc78cf22.chunk.js": "/contact-sync/static/js/696.dc78cf22.chunk.js",
+    "static/js/506.0fc4f729.chunk.js": "/contact-sync/static/js/506.0fc4f729.chunk.js",
+    "static/js/686.863de8ad.chunk.js": "/contact-sync/static/js/686.863de8ad.chunk.js",
+    "static/js/135.199d7781.chunk.js": "/contact-sync/static/js/135.199d7781.chunk.js",
+    "index.html": "/contact-sync/index.html",
+    "main.7e4b98be.css.map": "/contact-sync/static/css/main.7e4b98be.css.map",
+    "main.e473b008.js.map": "/contact-sync/static/js/main.e473b008.js.map",
+    "946.04ae9b7f.chunk.js.map": "/contact-sync/static/js/946.04ae9b7f.chunk.js.map",
+    "20.4b0d341a.chunk.js.map": "/contact-sync/static/js/20.4b0d341a.chunk.js.map",
+    "696.dc78cf22.chunk.js.map": "/contact-sync/static/js/696.dc78cf22.chunk.js.map",
+    "506.0fc4f729.chunk.js.map": "/contact-sync/static/js/506.0fc4f729.chunk.js.map",
+    "686.863de8ad.chunk.js.map": "/contact-sync/static/js/686.863de8ad.chunk.js.map",
+    "135.199d7781.chunk.js.map": "/contact-sync/static/js/135.199d7781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4b98be.css",
+    "static/js/main.e473b008.js"
+  ]
+}
